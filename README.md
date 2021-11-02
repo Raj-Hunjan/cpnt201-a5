@@ -2,8 +2,8 @@
 ---
 
 ## Links:
-- Repo:
-- Page:
+- Repo: https://github.com/Raj-Hunjan/cpnt201-a5
+- Page: 
 
 ## Chosen CSS Framework:
 - Tailwind
