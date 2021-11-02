@@ -3,7 +3,7 @@
 
 ## Links:
 - Repo: https://github.com/Raj-Hunjan/cpnt201-a5
-- Page: 
+- Page: https://raj-hunjan.github.io/cpnt201-a5/
 
 ## Chosen CSS Framework:
 - Tailwind
